@@ -132,6 +132,8 @@ set PATH=%PATH%;%CD%\open-source\local\bin;%CD%\open-source\local\lib
 
 Now if you execute `gst-inspect-1.0 kvssink` you should get information on the plugin like
 
+Note : you must logged-in with root user (sudo su) before executing this command.
+
 ```text
 Factory Details:
   Rank                     primary + 10 (266)
